@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea125b6-45b0-4701-b048-3b879bd4620e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U9FjduYAh36sQGjEFXvRndMw3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/arayüz" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.Arayüz">
+    <configuration name="Arayüz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SurgeryOperation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arayüz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Puanlama" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SurgeryOperation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Puanlama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sponsorluklar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SurgeryOperation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sponsorluklar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Yorumlar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SurgeryOperation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Yorumlar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="İletişim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SurgeryOperation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/İletişim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Arayüz" />
+        <item itemvalue="Python.Yorumlar" />
+        <item itemvalue="Python.İletişim" />
+        <item itemvalue="Python.Puanlama" />
+        <item itemvalue="Python.Sponsorluklar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea125b6-45b0-4701-b048-3b879bd4620e" name="Default Changelist" comment="" />
+      <created>1574761040924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574761040924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576876054283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1576876054283" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577181448079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577181448079" />
+    <state x="402" y="0" key="#dbdeneme" timestamp="1576887602062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#dbdeneme/0.0.1366.728@0.0.1366.728" timestamp="1576887602062" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576750541649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576750541649" />
+    <state width="1345" height="92" key="GridCell.Tab.0.bottom" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.0.center" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.0.left" timestamp="1577305417202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577305417202" />
+    <state width="1345" height="92" key="GridCell.Tab.0.right" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.1.bottom" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.1.center" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.1.left" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state width="1345" height="92" key="GridCell.Tab.1.right" timestamp="1577305417219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="92" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577305417219" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1576099524662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576099524662" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576237283241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576237283241" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577130402439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577130402439" />
+  </component>
+</project>
